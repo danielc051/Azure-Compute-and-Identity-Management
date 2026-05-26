@@ -6,9 +6,11 @@ This project involves deploying a virtual machine, securing it using RBAC, apply
 
 A company wants to deploy a virtual machine for their web application, secure it with role-based access control, enforce a policy for naming conventions, encrypt sensitive data, and monitor the cost of the deployed resources.
 
+<img src="azurecomputeandidentitymanagement.png" alt="Azure Architecture Diagram">
+
 ---
 
-##📋 **Steps**
+## 📋 **Steps**
 
 ### **1. Create a Virtual Machine**
 
